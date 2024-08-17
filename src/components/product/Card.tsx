@@ -13,7 +13,7 @@ const Card = () => {
   <div className="card-body p-4">
     <h2 className="card-title text-xl font-bold mb-2">Smart Watch</h2>
     <p className="text-gray-600 mb-4">
-      If a dog chews shoes, whose shoes does he choose?
+    A smartwatch is a versatile wearable device offering key features like...
     </p>
     <p className="text-xl font-semibold">Price: $365</p>
     <div className="card-actions justify-end">

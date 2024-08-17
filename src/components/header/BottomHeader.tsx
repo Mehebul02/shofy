@@ -15,7 +15,7 @@ const BottomHeader = () => {
           ))}
         </div>
         <p className="text-xs text-gray-400 font-medium hidden md:inline-flex">
-          Hotline: <span className="text-black">+88 01012345678</span>
+          Hotline: <span className="text-black">+8801642287450</span>
         </p>
       </Container>
     </div>
