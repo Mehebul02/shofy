@@ -9,13 +9,13 @@ export const navigation = [
   { title: "Contact", href: "/contact" },
 ];
 
-export const banner = {
-  _id: 1001,
-  priceText: "Starting at $999.90",
-  title: "The best tablet Collection 2024",
-  textOne: "Exclusive offer",
-  offerPrice: "-30%",
-  textTwo: "off this week",
-  buttonLink: "/products",
-  image: bannerImageOne,
-};
+// export const banner = {
+//   _id: 1001,
+//   priceText: "Starting at $999.90",
+//   title: "The best tablet Collection 2024",
+//   textOne: "Exclusive offer",
+//   offerPrice: "-30%",
+//   textTwo: "off this week",
+//   buttonLink: "/products",
+//   image: bannerImageOne,
+// };
