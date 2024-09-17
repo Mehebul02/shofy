@@ -16,7 +16,7 @@ const Footer = () => {
       <Container className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
         <div className="flex flex-col items-start gap-y-5">
           <Link href={"/"}>
-            <Image src={logo} alt="logo" />
+            <Image src={logo} alt="logo"className="w-24" />
           </Link>
           <p>
             We are a team of designers and developers that create high quality
